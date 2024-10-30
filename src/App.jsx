@@ -34,10 +34,10 @@ function NavBar() {
         Home
       </Link>
       <Link className="navbar-button" to={FRONTEND_URL}>
-        Frontend Showcase
+        Front-End Showcase
       </Link>
       <Link className="navbar-button" to={BACKEND_URL}>
-        Backend Showcase
+        Back-End Showcase
       </Link>
       <Link className="navbar-button" to={PLUGINS_URL}>
         jQuery Plugins

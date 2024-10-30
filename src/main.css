@@ -5,3 +5,7 @@ nav {
 .navbar-button {
   padding: 10px 10px 10px 0px;
 }
+
+.multiline-paragraph {
+  white-space: pre-wrap;
+}
